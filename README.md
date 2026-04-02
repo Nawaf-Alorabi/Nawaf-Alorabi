@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaf-alorabi&label=Profile%20views&color=0e75b6&style=flat" alt="nawaf-alorabi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cs_8x" target="blank"><img src="https://img.shields.io/twitter/follow/cs_8x?logo=twitter&style=for-the-badge" alt="cs_8x" /></a> </p>
-
 - 🌱 I’m currently learning **Deep learning algorithms**
 
 - 📫 How to reach me **cs.nawafalorabi@gmail.com**
