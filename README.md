@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaf-alorabi&label=Profile%20views&color=0e75b6&style=flat" alt="nawaf-alorabi" /> </p>
 
-- 🌱 I’m currently learning **Deep learning algorithms**
+- 🌱 I’m currently learning **Agent & RAG & LLM**
 
 - 📫 How to reach me **cs.nawafalorabi@gmail.com**
 
